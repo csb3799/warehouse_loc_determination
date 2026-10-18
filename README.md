@@ -25,7 +25,7 @@ Once clusterin is done you can find out the suitable warehousing locations by cl
 To contribute and modify this app clone the repository by typing 
 
 ```
-git clone https://github.com/yogihbti/warehouse_loc_determination.git
+git clone https://github.com/csb3799/warehouse_loc_determination
 ```
 To get the warehouse location names you need to add the google api_key in the file named api_key. This app will read the file to access the google API. 
 
